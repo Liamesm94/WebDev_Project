@@ -316,7 +316,7 @@ table {
 caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  color: #6c757d;
+  color: #333536;
   text-align: left;
 }
 
@@ -7812,7 +7812,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #CED9DB !important;
+  color: #333536 !important;
 }
 
 .text-black-50 {
